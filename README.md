@@ -1,2 +1,2 @@
-# CS512-AI-Assignments
-CS512 - Artificial Intelligence Course Assignments
+# CS512-AI-Labs
+CS512 - Artificial Intelligence Course Lab Assignments
